@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 =========================
-Website Captcha No Google
+Website Captcha No Google（非Google的Odoo登录验证码）
 =========================
 
 This module allows you to integrate a python CAPTCHA to your website forms.
